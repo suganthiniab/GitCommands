@@ -1,4 +1,4 @@
-A - apple
+A - aeroplane
 B - ball
 C - cat
 D - doll
