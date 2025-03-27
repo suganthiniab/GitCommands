@@ -1,0 +1,27 @@
+A - apple
+B - ball
+C - cat
+D - doll
+E - egg
+F - fox
+G - goat
+H - hat
+I - ink
+J - juice
+K - kite
+L - lion
+M - monkey
+N – net
+O - orange
+P - petrol
+Q - queen
+R - rat
+S - squash
+T - tea
+U - umbrella
+V - van
+W -wax
+X – x-ray
+Y - yawn
+Z - zebra
+
